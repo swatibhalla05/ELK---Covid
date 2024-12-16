@@ -20,6 +20,13 @@ The main attributes in the dataset include:
 
 ## Chart Descriptions, Questions, and Key Insights
 
+
+
+
+https://github.com/user-attachments/assets/0fe13df5-b389-45e0-ad19-c6bb78a6226a
+
+
+
 ### Total Cases and Total Deaths by Continent
 - **Question:** Which continents have reported the highest total COVID-19 cases and deaths?
 - **Description:** A bar chart compares total COVID-19 cases and deaths across continents.
